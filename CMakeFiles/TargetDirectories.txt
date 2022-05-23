@@ -1,3 +1,0 @@
-/home/dominic/Desktop/CBSH2-RTC-HR/CMakeFiles/rebuild_cache.dir
-/home/dominic/Desktop/CBSH2-RTC-HR/CMakeFiles/edit_cache.dir
-/home/dominic/Desktop/CBSH2-RTC-HR/CMakeFiles/cbs.dir
