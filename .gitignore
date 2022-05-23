@@ -1,3 +1,9 @@
 .idea
+CMakeFiles
 cmake-*
 bin
+paths.txt
+test.csv
+CMakeCache.txt
+cbs
+
