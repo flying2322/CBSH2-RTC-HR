@@ -1,6 +1,8 @@
 .idea
+.vscode
 CMakeFiles
-cmake-*
+cmake_install.cmake
+Makefile
 bin
 paths.txt
 test.csv
